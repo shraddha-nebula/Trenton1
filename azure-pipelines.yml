@@ -14,8 +14,6 @@ variables:
 
   #Replace these variables to suit your application
   projectName: 'WebPOC'
-  websiteName: 'WeatherService'
-  appPoolName: 'WeatherService'
 
 stages:
 - stage: 'Build'
